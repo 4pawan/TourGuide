@@ -254,6 +254,7 @@
     <None Include="packages.config" />
     <Content Include="Web.config" />
     <Content Include="Views\Web.config" />
+    <None Include="Properties\PublishProfiles\Debug.pubxml" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
