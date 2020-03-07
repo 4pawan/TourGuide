@@ -5,7 +5,7 @@ VisualStudioVersion = 16.0.29519.87
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TourGuide", "TourGuide\TourGuide.csproj", "{829EA4C0-8449-4FFA-B593-AD5AA99AE045}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tac.utils", "..\..\..\ST\Video\8.2 Adv\Student Resources\Events\tac.utils\tac.utils.csproj", "{1C59F3AA-127D-4D46-92A9-8EB82692B76A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tac.utils", "tac.utils\tac.utils.csproj", "{1C59F3AA-127D-4D46-92A9-8EB82692B76A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
